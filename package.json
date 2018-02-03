@@ -1,0 +1,17 @@
+{
+  "name": "loudness-promise",
+  "version": "0.1.0",
+  "description": "loudness Promise",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "70-10/loudness-promise",
+  "keywords": [],
+  "author": {
+    "name": "70_10",
+    "email": "7010.dev@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loudness": "^0.2.2"
+  }
+}
